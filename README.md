@@ -8,5 +8,4 @@ There is a game of Hangman
 
 There is a game of Blackjack
 
-All with a GUI
-And txt files for tracking
+All with a GUI and txt files for tracking
